@@ -40,9 +40,9 @@ Utilitários
 
 OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
 
----
-
 ➡️ [Acesso ao projeto](https://marcoaurelio2021.github.io/vikings-barber-shop-nlw-6/)
+
+---
 
 ## 🔖 Layout
 
