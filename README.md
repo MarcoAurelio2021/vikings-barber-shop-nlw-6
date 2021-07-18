@@ -42,7 +42,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 ---
 
-# ➡️ [Acesso ao projeto](https://marcoaurelio2021.github.io/vikings-barber-shop-nlw-6/)
+➡️ [Acesso ao projeto](https://marcoaurelio2021.github.io/vikings-barber-shop-nlw-6/)
 
 ## 🔖 Layout
 
