@@ -371,11 +371,16 @@ nav.show div.icon-close {
 /*====  TESTIMONIALS ============================ */
 #testimonials {
   background: white;
+
 }
 
 #testimonials .container {
   margin-left: 0;
   margin-right: 0;
+}
+
+.swiper-container {
+  position: relative;
 }
 
 #testimonials header {
@@ -423,11 +428,18 @@ nav.show div.icon-close {
 .swiper-slide {
   height: auto;
   padding: 4rem 1rem;
+ 
+}
+
+.swiper-pagination {
+  position: absolute;
+
 }
 
 .swiper-pagination-bullet {
   width: 0.75rem;
   height: 0.75rem;
+ 
 }
 
 .swiper-pagination-bullet-active {
@@ -618,7 +630,8 @@ footer .social a:hover {
     padding-right: 3rem;
   }
 
-  /* testimonials */
+ 
+
   #testimonials .container {
     margin-left: auto;
     margin-right: auto;
