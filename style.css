@@ -377,11 +377,11 @@ nav.show div.icon-close {
 #testimonials .container {
   margin-left: 0;
   margin-right: 0;
+  position: relative;
+  overflow: hidden;
 }
 
-.swiper-container {
-  position: relative;
-}
+
 
 #testimonials header {
   margin-left: 1.5rem;
@@ -431,10 +431,7 @@ nav.show div.icon-close {
  
 }
 
-.swiper-pagination {
-  position: absolute;
 
-}
 
 .swiper-pagination-bullet {
   width: 0.75rem;
